@@ -29,8 +29,8 @@
         justify-content: center;
         align-items: center;
         text-align: center;
-        height: 100vh; /* Full height of the viewport */
-        margin-top: -60px; /* Compensate for the fixed navbar height */
+        height: 100vh; 
+        margin-top: -60px; 
       }
 
       h1 {
@@ -47,7 +47,7 @@
         }
 
         h1 {
-          font-size: 1.5rem; /* Smaller font size for smaller screens */
+          font-size: 1.5rem; 
         }
       }
     </style>
