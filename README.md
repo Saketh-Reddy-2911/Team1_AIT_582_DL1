@@ -15,9 +15,7 @@
         height: 100vh;
         text-align: center;
       }
-      span {
-        display: none;
-      }
+
     </style>
 
     
@@ -40,7 +38,7 @@
         Professor: <span itemprop="name">Dr. Can Nguyen</span>
         </div>
         <p>
-        <span itemprop="CreativeWork">Final Project Start date<span><time itemprop="startDate"datetime="2023-08-27"> 08/27/23</time></span></span>
+        Final Project Start date <time itemprop="startDate"datetime="2023-08-27"> 08/27/23</time>
         </p>
         <a href="https://mason.gmu.edu/~spuchak/" itemprop="url">Link</a>
       </div>
