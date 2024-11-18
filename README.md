@@ -68,10 +68,9 @@
       <div itemprop="professor" itemscope itemtype="https://schema.org/Role">
         Professor: <span itemprop="name">Dr. Can Nguyen</span>
       </div>
-      <h2>Assignment 3<h2>
       <p>
-        Final Project Start Date: 
-        <time itemprop="startDate" datetime="2023-08-27">08/27/23</time>
+        Assignment 3: 
+        <time itemprop="startDate" datetime="2023-11-15">11/15/23</time>
       </p>
       <a href="https://mason.gmu.edu/~spuchak/" itemprop="url">Link</a>
     </div>
