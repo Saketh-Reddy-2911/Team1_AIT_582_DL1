@@ -2,16 +2,13 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-      /* Reset and body styling */
       body {
         margin: 0;
         padding: 0;
         font-family: Arial, sans-serif;
         box-sizing: border-box;
-        height: 100vh; /* Full height of the viewport */
+        height: 100vh; 
       }
-
-      /* Navbar styling */
       .navbar {
         width: 100%;
         position: fixed;
@@ -26,7 +23,6 @@
         height: auto;
       }
 
-      /* Main content styling */
       .content {
         display: flex;
         flex-direction: column;
@@ -41,7 +37,6 @@
         margin: 0;
       }
 
-      /* Responsive adjustments */
       @media (max-width: 768px) {
         .content {
           padding: 10px;
@@ -59,10 +54,8 @@
   </head>
   <body>
     <div>
-      <!-- Navbar -->
       <nav class="navbar">
         <div class="container-fluid">
-          <!-- Logo -->
           <a class="navbar-brand" href="#">
             <img src="https://static.wixstatic.com/media/f6f74b_37b4531648964a5398f95156ffd7f6cb~mv2.png/v1/fill/w_4000,h_4000,al_c/gmu_logo.png" alt="Logo" width="100" height="60" class="d-inline-block align-text-top">
           </a>
@@ -70,7 +63,6 @@
       </nav>
     </div>
 
-    <!-- Main Content -->
     <div class="content" itemscope itemtype="https://schema.org/teaches">
       <h1 itemprop="name">AIT 582 DL1 - Applications of Metadata in Complex Big Data Problems</h1>
       <div itemprop="professor" itemscope itemtype="https://schema.org/Role">
