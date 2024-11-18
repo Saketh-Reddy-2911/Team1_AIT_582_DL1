@@ -15,7 +15,12 @@
         height: 100vh;
         text-align: center;
       }
+      span {
+        display: none;
+      }
     </style>
+
+    
   </head>
   <body>
     <div>
@@ -35,7 +40,7 @@
         Professor: <span itemprop="name">Dr. Can Nguyen</span>
         </div>
         <p>
-        Final Project Start date<display = "none" time itemprop="startDate"datetime="2023-08-27"> 08/27/23</time>
+        <span itemprop="CreativeWork">Final Project Start date<span><time itemprop="startDate"datetime="2023-08-27"> 08/27/23</time></span></span>
         </p>
         <a href="https://mason.gmu.edu/~spuchak/" itemprop="url">Link</a>
       </div>
