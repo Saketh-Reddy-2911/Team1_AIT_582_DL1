@@ -70,7 +70,7 @@
       </div>
       <p>
         Assignment 3: 
-        <time itemprop="startDate" datetime="2023-11-15">11/15/23</time>
+        <time itemprop="startDate" datetime="2023-11-18">11/18/23</time>
       </p>
       <a href="https://mason.gmu.edu/~spuchak/" itemprop="url">Link</a>
     </div>
