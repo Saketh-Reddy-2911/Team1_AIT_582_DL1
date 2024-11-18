@@ -1,8 +1,6 @@
 <html>
   <head>
         <style>
-          body > :first-child {
-      display: none;
       body {
         margin: 0;
         padding: 0;
