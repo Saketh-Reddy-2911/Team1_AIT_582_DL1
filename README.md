@@ -68,8 +68,8 @@
       <div itemprop="professor" itemscope itemtype="https://schema.org/Role">
         Professor: <span itemprop="name">Dr. Can Nguyen</span>
       </div>
+      <h2>Assignment 3<h2>
       <p>
-        Assignment 3 </br>
         Final Project Start Date: 
         <time itemprop="startDate" datetime="2023-08-27">08/27/23</time>
       </p>
